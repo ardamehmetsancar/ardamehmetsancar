@@ -2,7 +2,7 @@
 
 <img height="140px" align="right" src="https://i.imgur.com/I1BIb2a.png" alt="opposite dipper">
 
-- 👀 __**Name**__: Arda Mehmet Sancar (Umut.py)
+- 👀 __**Name**__: Arda Mehmet Sancar (julz3320)
 - 🖥️ **Who?**: A third-grade student in the field of information technology and software who loves coding.
 - ⚙️ **Working on:** N/A
 - 🤿 **Learning:** Java 
