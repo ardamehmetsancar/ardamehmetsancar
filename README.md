@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Arda
 
-<img height="140px" align="right" src="https://media1.tenor.com/images/e527f1731291b4827b038a477fb2949e/tenor.gif?itemid=19287771" alt="opposite dipper">
+<img height="140px" align="right" src="https://i.imgur.com/I1BIb2a.png" alt="opposite dipper">
 
 - 👀 __**Name**__: Arda Mehmet Sancar (Umut.py)
 - 🖥️ **Who?**: A third-grade student in the field of information technology and software who loves coding.
