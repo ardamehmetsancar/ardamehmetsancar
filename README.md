@@ -12,7 +12,7 @@
 <br><br>
 <h2 align="center"> Contact Me </h2>
 <p align="center">
-  <a href="https://discord.com/users/750365145309511791" target="_blank">Discord"</a>
+  <a href="https://discord.com/users/750365145309511791" target="_blank">Discord</a>
   |
   <a href="https://steamcommunity.com/profiles/76561199709437518/" target="_blank">Steam</a>
 </p>
